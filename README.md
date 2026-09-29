@@ -8,7 +8,7 @@ Tudo roda no navegador: os arquivos de save não são enviados para nenhum servi
 
 ## Como usar
 
-1. Acesse: https://steinbukken7321.github.io/remnant-mapa/
+1. Acesse: [https://steinbukken7321.github.io/remnant-mapa/](https://steinbukken7321.github.io/remnant-from-the-ashes-progress-analyzer/)
 2. Abra a pasta `%LOCALAPPDATA%\Remnant\Saved\SaveGames` (Win+R).
 3. Envie o `profile.sav` (inventário) e o `save_N.sav` (mundo). Também aceita `.bak`.
 4. Escolha o personagem e o modo (Campanha ou Aventura) e clique nos eventos.
