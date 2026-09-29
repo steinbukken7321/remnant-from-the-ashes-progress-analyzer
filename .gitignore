@@ -1,0 +1,6 @@
+*.sav
+*.bak
+*.back
+.venv/
+__pycache__/
+debug/
